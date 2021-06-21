@@ -30,4 +30,4 @@ Code for Germany organisiert sich in lokalen Gruppen, den Open Knowledge Labs, u
 
 Zur Webseite: <https://verfassungsschutzberichte.de> oder <https://vsberichte.de>
 
-_Presseanfragen bitte an Johannes Filter, <info@vsberichte.de>, Telefonnummer auf Anfrage._
+_Presseanfragen bitte an Johannes Filter, <hi@jfilter.de>, Telefonnummer auf Anfrage._

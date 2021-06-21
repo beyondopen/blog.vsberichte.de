@@ -13,8 +13,6 @@ Seit den VS-Berichten 2013 (erschienen im Jahr 2014) werden Organisationen, die 
 
 [Mehr Informationen zum Blog-Post von FragDenStaat](https://fragdenstaat.de/blog/2020/05/05/verfassungsschutz-gemeinnuetzigkeit-vereine/)
 
-_von Johannes Filter_
-
 <!--more-->
 
 ## Gibt es eine explizite Auflistung aller Organisationen, die der VS als "extremistisch" bezeichnet?
@@ -155,3 +153,5 @@ Jeweils keine weiteren Erläuterungen
 "Registeranhang"
 
 > Im Registeranhang sind die im Bericht erwähnten Gruppierungen aufgeführt, die ihren Ursprung in Thüringen haben, weitestgehend lokal agieren und einem bun- desweit aktiven extremistischen Personenzusammenschluss nicht als regionale Untergliederung organisatorisch zugehören. Im Übrigen wird auf das vorhergehende Register verwiesen.
+
+_von Johannes Filter_
