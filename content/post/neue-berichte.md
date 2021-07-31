@@ -1,5 +1,5 @@
 ---
-title: "Neue Berichte, neues Features"
+title: "Neue Berichte, neues Feature"
 coverImage: images/blog/regional_cover.png
 thumbnailImagePosition: left
 metaAlignment: center
